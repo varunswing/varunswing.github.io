@@ -8,7 +8,7 @@ permalink: /code/
 
 ## C++
 
-* [**Chain Reaction:** CLI version of the famous chain reaction game on google playstore](https://github.com/varunswing/chain_reaction_game)
+* [**Chain Reaction Game:** CLI version of the famous chain reaction game on google playstore](https://github.com/varunswing/chain_reaction_game)
 
 ## PHP
 
@@ -17,11 +17,11 @@ permalink: /code/
 
 ## JavaScript
 
-* [**MiniProjects:** Few mini projects on javascript.](https://github.com/varunswing/js_projects)
-
-* [**ContactManager:** A web tool for keeping professional and prviate daily contacts.](https://github.com/varunswing/contact_manager)
+* [**Contact Manager:** A web tool for keeping professional and private day to day contacts.](https://github.com/varunswing/contact_manager)
 
 * [**IT Logger:** A react application to keep record of daily work logs.](https://github.com/varunswing/it_logger)
+
+* [**Mini Projects:** Few intresting mini projects on basic javascript.](https://github.com/varunswing/js_projects)
 
 
 **Last updated...**_A long time ago_
