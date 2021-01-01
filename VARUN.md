@@ -31,10 +31,10 @@ Hey there, how you doing?
 
 
 ## Find me on -
-* [**Linkedin:** /thekrazyguy](https://www.linkedin.com/in/varunswing/)
+* [**Linkedin:** /varunswing](https://www.linkedin.com/in/varunswing/)
 
-* [**Instagram:** /qwertyvipul](https://www.instagram.com/varunswing/)
+* [**Instagram:** /varunswing](https://www.instagram.com/varunswing/)
 
-* [**Twitter:** /qwertyvipul](https://twitter.com/varunswing/)
+* [**Twitter:** /varunswing](https://twitter.com/varunswing/)
 
-* [**Github:** /thevipulsharma](https://github.com/varunswing)
+* [**Github:** /varunswing](https://github.com/varunswing)
