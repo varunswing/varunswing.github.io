@@ -31,9 +31,9 @@ Hey there, how you doing?
 
 
 ## Find me on -
-* [**Facebook:** /thekrazyguy](https://www.facebook.com/thekrazyguy)
+* [**Linkedin:** /thekrazyguy](https://www.linkedin.com/in/varunswing/)
 
-* [**Instagram:** /qwertyvipul](https://www.instagram.com/qwertyvipul/)
+* [**Instagram:** /qwertyvipul](https://www.instagram.com/varunswing/)
 
 * [**Twitter:** /qwertyvipul](https://twitter.com/varunswing/)
 
