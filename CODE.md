@@ -23,5 +23,16 @@ permalink: /code/
 
 * [**Mini Projects:** Few intresting mini projects on basic javascript.](https://github.com/varunswing/js_projects)
 
+## Android
+
+* [**Super Mario Clone:** Clone of our chilhood favourite game.](https://github.com/varunswing/android)
+
+* [**Tic Tac Toe:** Cross or 0 game.](https://github.com/varunswing/android)
+
+* [**Mini Projects:** Few intresting mini projects on different android features.](https://github.com/varunswing/android)
+
+## OpenCV
+
+* [**Projects:** Few intresting projects with openCV like face-detection, live web-cam sketching, object detection , etc.](https://github.com/varunswing/openCV/tree/main/projects)
 
 **Last updated...**_A long time ago_
