@@ -8,9 +8,9 @@ permalink: /code/
 
 ## JavaScript
 
-* [**Contact Manager:** Full stack MERN Contact Manager App | Authenticated Login Using MongoDB Atlas | Uses React Hooks and Context API | Deployed App on Heroku](https://github.com/varunswing/contact_manager)
+* [**Contact Manager:** Full stack MERN Contact Manager App, Authenticated Login Using MongoDB Atlas, Uses React Hooks and Context API, Deployed App on Heroku](https://github.com/varunswing/contact_manager)
 
-* [**IT Logger:** IT Logger is a React | Redux based app to track IT department tasks and issues | Uses JSON Server as mock backend | Use Material Icons and Google Public API.](https://github.com/varunswing/it_logger)
+* [**IT Logger:** IT Logger is a React, Redux based app to track IT department tasks and issues, Uses JSON Server as mock backend, Uses Material Icons and Google Public API.](https://github.com/varunswing/it_logger)
 
 * [**Mini Projects:** Few intresting mini projects on basic javascript.](https://github.com/varunswing/js_projects)
 
