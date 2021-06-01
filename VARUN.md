@@ -26,7 +26,7 @@ Hey there, how you doing?
 
 
 ## Hobbies
-1. Numismatics
+1. Games
 1. Movies
 
 

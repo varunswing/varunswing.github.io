@@ -1,0 +1,29 @@
+*{
+    padding:0px; margin:0px; box-sizing: border-box;
+}
+
+.site-body{ padding:5px 10px 0px 10px; max-width:600px; margin:0 auto;}
+.Navbar{ padding:0px;}
+.site-name{padding:5px 0px 0px 0px}
+.nav-list{padding:5px 0px}
+.nav-item{
+    list-style: none; float:left; padding:0px 5px;
+}
+#nav-home{padding-left: 0px;}
+
+.main-div{padding:5px 0px;}
+
+.p-table{
+    width:100%; border-collapse: collapse;
+}
+.p-head{
+    background: #fa3d3d;
+}
+
+.p-body .p-row:nth-child(even){
+    background: #ccd;
+}
+
+.p-col{
+    border: 1px solid #aaa; padding: 5px; 
+}
